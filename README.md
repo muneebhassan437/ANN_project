@@ -8,5 +8,5 @@ to converge and small enough to avoid over-shooting.
 With these results, I was able to reach a train_cost accuracy of 90% and validation_cost accuracy of 84%.
 
 # How to run the code
-Make sure all the files are in the same directory. Open VS code terminal and type "gcc main.c mymodel.c -lsodium -lm" within the directory where the files are stored. This will create and obect code.
-To run the object object code, type "./a.out"
+Make sure all the files are in the same directory. Open VS code terminal and type "gcc main.c mymodel.c -lsodium -lm" within the directory where the files are stored. This will create the object code.
+To run the object code, type "./a.out"
